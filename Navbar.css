@@ -1,0 +1,33 @@
+/* src/Navbar.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #93b864; /* Example background color */
+}
+
+.logo {
+    text-decoration: none; /* Remove underline from link */
+}
+
+.navbar-logo {
+    height: 50px; /* Adjust the height of the logo */
+    width: auto; /* Maintain aspect ratio */
+}
+
+.Navbar {
+    display: flex;
+    gap: 20px; /* Space between nav items */
+}
+
+.Navbar a {
+    text-decoration: none;
+    color: #ffffff; /* Adjust text color */
+    padding: 5px 10px; /* Add some padding */
+    transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+.Navbar a:hover {
+    color: #007BFF; /* Change color on hover */
+}

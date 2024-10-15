@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+a{
+  text-decoration: none;
+
+}
+body{
+  background: url('./Manhaimg/Background.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}

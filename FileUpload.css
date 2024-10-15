@@ -1,0 +1,11 @@
+form {
+    margin: 20px 0;
+}
+
+input[type="file"] {
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+}
